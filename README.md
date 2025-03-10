@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Kunal<br>
-🔭 I’m currently working on Anonify (Anonymous Feedback)<br>🌱 I’m currently learning Computer Science and Engineering<br>🎯 I’m open to Collabrate on Open-Source Projects Engineering<br>💬I've worked with frontend frameworks such as NextJs<br>⚡ Fun fact: The longest word that can be typed using only one row of the keyboard is "typewriter"
+🔭 I’m currently working on Anonify (Anonymous Feedback)<br>🌱 I’m currently learning Computer Science and Engineering<br>🎯 I’m open to Collabrate on Open-Source Projects <br>💬I've worked with frontend frameworks such as NextJs<br>⚡ Fun fact: The longest word that can be typed using only one row of the keyboard is "typewriter"
 
 
 ## 🌐 Socials:
